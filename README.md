@@ -1,3 +1,17 @@
+> **Note:** This is my fork of [amanchadha/coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization), kept as a study reference while working through the Deep Learning Specialization. All assignments, quiz solutions and notes below are by the original author, [Aman Chadha](https://github.com/amanchadha), with course material from [deeplearning.ai](https://www.deeplearning.ai/). The links below open the original repository's notebooks in nbviewer.
+>
+> **What this repo covers:** 5 courses, from neural network basics to CNNs, RNNs and Transformers, with programming assignments (Jupyter notebooks) and weekly quiz solutions.
+>
+> **Quick start:**
+> ```bash
+> git clone https://github.com/abdulmanankhalid/coursera-deep-learning-specialization.git
+> cd coursera-deep-learning-specialization
+> bash setup.sh   # downloads VGG-19 and unzips the pre-trained models/datasets
+> ```
+> Some folder names are long. On Windows, run `git config --global core.longpaths true` before cloning.
+
+---
+
 # Deep Learning Specialization on Coursera (offered by deeplearning.ai)
 
 Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
